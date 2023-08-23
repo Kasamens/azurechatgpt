@@ -1,5 +1,7 @@
 name: Build & deploy Next.js app to Azure Web App
 
+#AzureOpenAI
+
 # When this action will be executed
 on:
   # Automatically trigger it when detected changes in repo
